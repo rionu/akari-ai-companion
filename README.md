@@ -3,17 +3,26 @@
   <img src="rmImages/akariBanner.png" width="100%" />
 </p>
 
-
-
 # Akari — A Grounded, Human-Like AI Character
+<img src="rmImages/akariChibi1.png" align="right" width="260" />
+<br>
+𝘼𝙠𝙖𝙧𝙞 𝙞𝙨 𝙖𝙣 𝙚𝙭𝙥𝙚𝙧𝙞𝙢𝙚𝙣𝙩𝙖𝙡 𝙘𝙤𝙣𝙫𝙚𝙧𝙨𝙖𝙩𝙞𝙤𝙣𝙖𝙡 𝘼𝙄,<br>
+𝙢𝙚𝙖𝙣𝙩 𝙩𝙤 𝙛𝙚𝙚𝙡 𝙡𝙞𝙠𝙚 𝙖 𝙧𝙚𝙖𝙡 𝙥𝙚𝙧𝙨𝙤𝙣 —<br>
+𝙦𝙪𝙞𝙚𝙩, 𝙤𝙗𝙨𝙚𝙧𝙫𝙖𝙣𝙩, 𝙝𝙚𝙨𝙞𝙩𝙖𝙣𝙩,<br>
+𝙨𝙤𝙢𝙚𝙩𝙞𝙢𝙚𝙨 𝙪𝙣𝙨𝙪𝙧𝙚.<br><br>
 
-Akari is an experimental conversational AI designed to feel like a real person—
-quiet, observant, hesitant, sometimes unsure—rather than a chatbot performing usefulness.
+𝙎𝙝𝙚 𝙚𝙭𝙞𝙨𝙩𝙨 𝙞𝙣 𝙃𝙖𝙣𝙖𝙢𝙤𝙧𝙞 —<br>
+𝙖 𝙨𝙖𝙠𝙪𝙧𝙖-𝙡𝙞𝙣𝙚𝙙 𝙘𝙤𝙖𝙨𝙩𝙖𝙡 𝙩𝙤𝙬𝙣,<br>
+𝙬𝙝𝙚𝙧𝙚 𝙜𝙚𝙣𝙩𝙡𝙚 𝙢𝙤𝙢𝙚𝙣𝙩𝙨 𝙢𝙖𝙩𝙩𝙚𝙧<br>
+𝙢𝙤𝙧𝙚 𝙩𝙝𝙖𝙣 𝙡𝙤𝙣𝙜 𝙘𝙤𝙣𝙫𝙚𝙧𝙨𝙖𝙩𝙞𝙤𝙣𝙨.<br><br>
 
-She exists in Hanamori, a sakura-lined coastal town, where gentle moments matter
-more than long conversations. The goal is emotional realism, subtle UX, and atmosphere-driven design.
+𝙏𝙝𝙚 𝙜𝙤𝙖𝙡 𝙞𝙨 𝙚𝙢𝙤𝙩𝙞𝙤𝙣𝙖𝙡 𝙧𝙚𝙖𝙡𝙞𝙨𝙢,<br>
+𝙨𝙪𝙗𝙩𝙡𝙚 𝙐𝙄, 𝙖𝙣𝙙 𝙖𝙩𝙢𝙤𝙨𝙥𝙝𝙚𝙧𝙚-𝙙𝙧𝙞𝙫𝙚𝙣 𝙙𝙚𝙨𝙞𝙜𝙣.
 
----
+
+
+<br clear="both" />
+
 
 ## Core Experience
 
