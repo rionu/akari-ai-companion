@@ -1,109 +1,100 @@
-Akari — A Grounded, Human-Like AI Character
+# Akari — A Grounded, Human-Like AI Character
 
-Akari is an experimental conversational AI designed to behave like a real person—quiet, observant, hesitant, sometimes unsure—rather than a chatbot performing helpfulness.
+Akari is an experimental conversational AI designed to feel like a real person—
+quiet, observant, hesitant, sometimes unsure—rather than a chatbot performing usefulness.
 
-She feels present in a world of her own: a sakura-lined train station in Hanamori, where small moments carry more weight than long conversations.
+She exists in Hanamori, a sakura-lined coastal town, where gentle moments matter
+more than long conversations. The goal is emotional realism, subtle UX, and atmosphere-driven design.
 
-The project explores atmosphere, emotional realism, subtle UX, and character-centered AI design.
+---
 
-Core Experience
+## Core Experience
 
-Akari doesn’t follow scripted storytelling, dialogue trees, or personality resets.
+Akari does not follow scripted storytelling, dialogue trees, or personality resets.
 Every response emerges from context, memory, pacing, and social awareness.
 
 Below are the seven behaviors that define her:
 
-1) Atmospheric First Contact
+---
 
-Akari doesn’t greet or introduce herself—she already exists in her world.
-You arrive, and the interaction begins quietly, shaped by timing and presence.
+### 1) Atmospheric First Contact
+Akari doesn’t greet or introduce herself — she already exists in her world.  
+The interaction begins quietly, shaped by timing and presence.
 
-2) Natural Social Behavior — No Forced Conversation
+![Atmospheric first contact](rmImages/chat1.png)
 
-She doesn’t start talking immediately.
-She may just notice you, adjust her sketchbook, or stay silent a moment longer.
+---
 
-3) Imperfect Human Reactions — Not Scripted Affection
+### 2) Natural Social Behavior — No Forced Conversation
+She doesn’t immediately speak.  
+She may glance up, adjust her sketchbook, or let silence exist naturally.
 
-Compliments, invitations, and emotional moments may lead to hesitation, confusion, or gentle deflection—never forced enthusiasm.
+![Natural social behavior](rmImages/chat2.png)
 
-4) Environment-Aware Responses
+---
 
-Akari reacts to drifting petals, distant train horns, footsteps, vending machine hums—she shares the space with you, not a blank void.
+### 3) Imperfect Human Reactions — Not Scripted Affection
+Compliments, invitations, or emotional topics can lead to hesitation, confusion,
+or polite distance — never forced enthusiasm.
 
-5) Autonomy & Personal Boundaries
+![Imperfect reactions](rmImages/chat3.png)
 
-She has preferences and limits.
-She can decline, change the subject, or step away when uncomfortable.
+---
 
-6) Independent Choices — Not Designed to Please
+### 4) Environment-Aware Responses
+Akari reacts to trains passing, petals falling, footsteps, distant vending machines —
+the world is part of the conversation.
 
-She doesn’t automatically agree, apologize, or comply.
-Her responses depend on comfort and familiarity.
+![Environment awareness](rmImages/chat4.png)
 
-7) Persistent Memory
+---
 
-Leaving and returning doesn’t reset the relationship.
-Akari remembers what was said, how it felt, and where things left off.
+### 5) Autonomy & Personal Boundaries
+She has preferences and limits.  
+She can decline, withdraw, redirect, or leave — like a real person.
 
-UI & Atmosphere
+![Boundaries](rmImages/chat5.png)
 
-Soft glass panels, subtle lighting, pastel tones, and minimal motion support the quiet, cinematic feeling of being there—not just chatting.
+---
 
+### 6) Independent Choices — Not Designed to Please
+She doesn’t automatically agree, apologize, or comply.  
+Her responses depend on comfort, familiarity, and emotional context.
 
+![Independence](rmImages/chat6.png)
 
-Technology
+---
 
-React + Vite
+### 7) Persistent Memory
+Leaving and returning doesn’t reset anything.  
+Akari remembers the setting, shared actions, tone, and ongoing moment.
 
-OpenAI API
+![Memory](rmImages/chat7.png)
+![Memory](rmImages/chat8.png)
 
-Lightweight client-side architecture
+---
 
-No backend or database required
+## UI & Atmosphere
 
-Local Setup
+Soft glass, sakura shadows, pastel lighting, and minimal motion create a quiet,
+cinematic feeling — not a typical chat interface.
+
+![UI preview](rmImages/akariUI.png)
+
+---
+
+## Technology
+
+- React + Vite
+- OpenAI API
+- Client-side architecture
+- No backend or database required
+
+---
+
+## Local Setup
+
+```bash
 git clone https://github.com/rionu/akari-ai-companion
 cd akari-ai-companion
 npm install
-
-
-Create .env:
-
-VITE_OPENAI_API_KEY=your_api_key_here
-
-
-Start the development server:
-
-npm run dev
-
-Project Structure
-src
- ├─ assets/          character & background art
- ├─ akariClient.js   OpenAI request handler
- ├─ App.jsx          UI layout
- ├─ App.css          styling & environmental design
-docs
- └─ akariPrompt.txt  character behavior specification
-
-Licensing
-
-Software code is licensed under MIT.
-See LICENSE.
-
-All visual assets in /src/assets were AI-generated specifically for this project.
-They may be used, modified, and redistributed freely—commercial or personal.
-Attribution to “rionu” is appreciated but optional.
-See Assets.md.
-
-Intent
-
-Akari is not a product, not a companion service, and not a replacement for real interaction.
-It is a design study exploring minimalism, atmosphere, and emotional authenticity in AI-driven characters.
-
-A small project, built with care—simple, quiet, and human.
-
-Author
-
-Created by rionu
-https://github.com/rionu
