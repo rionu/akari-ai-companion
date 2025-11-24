@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="rmImages/akariBanner.png" width="100%" />
+</p>
+
+
+
 # Akari — A Grounded, Human-Like AI Character
 
 Akari is an experimental conversational AI designed to feel like a real person—
