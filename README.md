@@ -17,6 +17,11 @@ Below are the seven behaviors that define her:
 
 ---
 
+## UI & Atmosphere
+![UI preview](rmImages/akariUI.png)
+
+---
+
 ### 1) Atmospheric First Contact
 Akari doesn’t greet or introduce herself — she already exists in her world.  
 The interaction begins quietly, shaped by timing and presence.
@@ -71,15 +76,6 @@ Akari remembers the setting, shared actions, tone, and ongoing moment.
 
 ![Memory](rmImages/chat7.png)
 ![Memory](rmImages/chat8.png)
-
----
-
-## UI & Atmosphere
-
-Soft glass, sakura shadows, pastel lighting, and minimal motion create a quiet,
-cinematic feeling — not a typical chat interface.
-
-![UI preview](rmImages/akariUI.png)
 
 ---
 
